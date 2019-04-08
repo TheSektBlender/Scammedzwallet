@@ -249,3 +249,4 @@ elseif (WIN32)
 endif (APPLE)
 
 qt5_use_modules(${PROJECT_NAME} Widgets Gui)
+ 
